@@ -1,2 +1,2 @@
 # cerveceria
-Trheard en java TP Cerveceria UTN
+Trheads en java TP Cerveceria UTN
